@@ -6,6 +6,12 @@ h1{
 h2#h2{
 	text-align: center;
 }
+
+div#nav{
+	text-align:center;
+}
+
+
 div#contact-me{
 	display: inline;
 	list-style-type: none;
